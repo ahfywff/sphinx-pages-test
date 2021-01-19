@@ -22,4 +22,4 @@ There is a repo ``mydoc``, it is Sphinx documentation source.
 
 #. commit
 #. push
-#. wait for the workflow
+#. wait for the workflow 
