@@ -1,3 +1,3 @@
 GitHub Pages of [ahfywff/sphinx-pages-test](https://github.com/ahfywff/sphinx-pages-test.git)
 ===
-Sphinx html documentation of [591c687d](https://github.com/ahfywff/sphinx-pages-test/tree/591c687d9cf599e3c6c30108bb24727b4b3631c3)
+Sphinx html documentation of [3050a1ea](https://github.com/ahfywff/sphinx-pages-test/tree/3050a1ead4fc1aa3d772a380dde190f80f93aa75)
